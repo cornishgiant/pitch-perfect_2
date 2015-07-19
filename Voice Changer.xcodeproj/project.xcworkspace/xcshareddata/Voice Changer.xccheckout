@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5E30CDEC-CD01-46B0-B8F5-E0D5DE471CB0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Voice Changer</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1F2853F92C75B84628CC3D7C9DAD223569F8D052</key>
+		<string>https://github.com/ltunnicliffe/pitch-perfect_2.git</string>
+		<key>87D62A2FBE2FB0BD5086BC87A0585D8D0CB4DB71</key>
+		<string>http://www.github.com/cornishgiant/gitHubTest3.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Voice Changer.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1F2853F92C75B84628CC3D7C9DAD223569F8D052</key>
+		<string>../..</string>
+		<key>87D62A2FBE2FB0BD5086BC87A0585D8D0CB4DB71</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ltunnicliffe/pitch-perfect_2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1F2853F92C75B84628CC3D7C9DAD223569F8D052</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>87D62A2FBE2FB0BD5086BC87A0585D8D0CB4DB71</string>
+			<key>IDESourceControlWCCName</key>
+			<string>..</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1F2853F92C75B84628CC3D7C9DAD223569F8D052</string>
+			<key>IDESourceControlWCCName</key>
+			<string>pitch-perfect_2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
